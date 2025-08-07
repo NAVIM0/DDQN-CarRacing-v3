@@ -1,0 +1,15 @@
+opencv-python
+pyglet
+Box2D
+pygame
+PyOpenGL
+xvfbwrapper
+PyVirtualDisplay
+pillow
+EasyProcess
+scipy
+tqdm
+matplotlib
+tensorflow
+pandas
+gymnasium
